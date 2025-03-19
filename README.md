@@ -1,6 +1,6 @@
 🍽️ Food Recipe App
 
-A simple and elegant React-based recipe finder powered by a Food API. Search, explore, and cook delicious meals in seconds!
+The Food Recipe App is a React-based web application that allows users to explore and discover delicious recipes from around the world. It fetches real-time recipe data using a Food API, enabling users to search for recipes by ingredients, cuisine, or meal type.!
 
 
 📌 Features
@@ -19,11 +19,12 @@ React Router – Navigation
 CSS/Tailwind CSS – Styling
 
 
+
 📥 Installation & Setup
 To run this project locally, follow these steps:
 
 Clone the repositor
--git clone https://github.com/your-username/food-recipe-app.git
+-git clone https://github.com/shyamkumargupta411/RecipeHunt-.git
 -Navigate to the project directory
 -cd food-recipe-app
 -Install dependencies
