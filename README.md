@@ -1,27 +1,33 @@
-Food Recipe App 🍽️
-📌 Description
-The Food Recipe App is a React-based web application that allows users to explore and discover delicious recipes from around the world. It fetches real-time recipe data using a Food API, enabling users to search for recipes by ingredients, cuisine, or meal type.
+🍽️ Food Recipe App
 
-✨ Features
-✅ Search for recipes by name or ingredients
-✅ View detailed cooking instructions & ingredients list
-✅ Display recipe images for a better experience
-✅ Save favorite recipes for quick access
-✅ Fully responsive design for mobile and desktop
-
-🔧 Technologies Used
-React.js (Frontend framework)
-Food API (Fetching recipe data)
-Axios (Handling API requests)
-React Router (Navigation)
-CSS / Tailwind CSS (Styling)
+A simple and elegant React-based recipe finder powered by a Food API. Search, explore, and cook delicious meals in seconds!
 
 
-# React + Vite
+📌 Features
+✅ Search for recipes by name or ingredients 🔍
+✅ View step-by-step cooking instructions 📖
+✅ Display recipe images for better visualization 🖼️
+✅ Save favorite recipes for quick access ❤️
+✅ Fully responsive design for mobile & desktop 📱💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🛠️ Technologies Used
+React.js – UI development
+Food API – Fetching real-time recipe data
+Axios – Handling API requests
+React Router – Navigation
+CSS/Tailwind CSS – Styling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+📥 Installation & Setup
+To run this project locally, follow these steps:
+
+Clone the repositor
+-git clone https://github.com/your-username/food-recipe-app.git
+-Navigate to the project directory
+-cd food-recipe-app
+-Install dependencies
+-npm install
+-Start the development server
+-npm start
+Open your browser and visit:http://localhost:3000/
