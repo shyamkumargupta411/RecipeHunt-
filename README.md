@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 🍽️ Food Recipe App
 
 The Food Recipe App is a React-based web application that allows users to explore and discover delicious recipes from around the world. It fetches real-time recipe data using a Food API, enabling users to search for recipes by ingredients, cuisine, or meal type.!
@@ -33,7 +32,12 @@ Clone the repositor
 -Start the development server
 -npm start
 Open your browser and visit:http://localhost:3000/
-=======
+====================================================================================================================================================
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
