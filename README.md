@@ -1,49 +1,59 @@
-🍽️ Food Recipe App
+# 🍽️ Food Recipe App
 
-The Food Recipe App is a React-based web application that allows users to explore and discover delicious recipes from around the world. It fetches real-time recipe data using a Food API, enabling users to search for recipes by ingredients, cuisine, or meal type.!
+The **Food Recipe App** is a React-based web application that allows users to explore and discover delicious recipes from around the world. It fetches real-time recipe data using a Food API, enabling users to search for recipes by ingredients, cuisine, or meal type.
 
+## 📌 Features
 
-📌 Features
-✅ Search for recipes by name or ingredients 🔍
-✅ View step-by-step cooking instructions 📖
-✅ Display recipe images for better visualization 🖼️
-✅ Save favorite recipes for quick access ❤️
-✅ Fully responsive design for mobile & desktop 📱💻
+✅ **Search for recipes** by name or ingredients 🔍  
+✅ **View step-by-step cooking instructions** 📖  
+✅ **Display recipe images** for better visualization 🖼️  
+✅ **Save favorite recipes** for quick access ❤️  
+✅ **Fully responsive design** for mobile & desktop 📱💻  
 
+## 🛠️ Technologies Used
 
-🛠️ Technologies Used
-React.js – UI development
-Food API – Fetching real-time recipe data
-Axios – Handling API requests
-React Router – Navigation
-CSS/Tailwind CSS – Styling
+- **React.js** – UI development  
+- **Food API** – Fetching real-time recipe data  
+- **Axios** – Handling API requests  
+- **React Router** – Navigation  
+- **CSS/Tailwind CSS** – Styling  
 
+## 🚀 Getting Started
 
+### Prerequisites
+Make sure you have **Node.js** and **npm** installed on your system.
 
-📥 Installation & Setup
-To run this project locally, follow these steps:
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/Food-Recipe-App.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd Food-Recipe-App
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+5. Open your browser and visit `http://localhost:3000`
 
-Clone the repositor
--git clone https://github.com/shyamkumargupta411/RecipeHunt-.git
--Navigate to the project directory
--cd food-recipe-app
--Install dependencies
--npm install
--Start the development server
--npm start
-Open your browser and visit:http://localhost:3000/
-====================================================================================================================================================
+## 📷 Screenshots
+*(Add screenshots of your app here)*
 
+## 📜 License
+This project is licensed under the MIT License.
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
+## 📬 Contact
+For any inquiries, reach out via:
+- **Portfolio:** [My Portfolio](https://potfolioo-six.vercel.app)
+- **LinkedIn:** [Shyam Kumar Gupta](https://www.linkedin.com/in/shyam-kumar-gupta-59267a249)
+- **Email:** shyamkumargupta411@gmail.com
 
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 8e118ca (Initial commit - Upload Food Recipe App)
